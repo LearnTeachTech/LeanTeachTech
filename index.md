@@ -1,3 +1,25 @@
+
+
+Learning Resources, 
+
+
+
+
+
+
+https://www.pngfind.com/freepng/y/
+https://devdocs.io	
+https://www.w3schools.com	
+	
+https://developer.mozilla.org/en-US/	
+https://unsplash.com
+	
+https://www.10bestdesign.com/dirtymarkup/	
+
+
+
+##########
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/LeanTeachTech/LeanTeachTech/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
